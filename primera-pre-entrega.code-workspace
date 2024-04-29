@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../primer-proyecto-react"
+	},
+	{
+		"path": "../../proyecto-react"
+	}
+],
+  "settings": {}
+}
